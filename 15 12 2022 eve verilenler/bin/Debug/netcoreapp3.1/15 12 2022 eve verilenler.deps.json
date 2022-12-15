@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "15 12 2022 eve verilenler/1.0.0": {
+        "runtime": {
+          "15 12 2022 eve verilenler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "15 12 2022 eve verilenler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

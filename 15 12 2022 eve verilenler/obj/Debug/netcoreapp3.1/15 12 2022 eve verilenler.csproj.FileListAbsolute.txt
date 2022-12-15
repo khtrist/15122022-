@@ -1,0 +1,14 @@
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\bin\Debug\netcoreapp3.1\15 12 2022 eve verilenler.exe
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\bin\Debug\netcoreapp3.1\15 12 2022 eve verilenler.deps.json
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\bin\Debug\netcoreapp3.1\15 12 2022 eve verilenler.runtimeconfig.json
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\bin\Debug\netcoreapp3.1\15 12 2022 eve verilenler.runtimeconfig.dev.json
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\bin\Debug\netcoreapp3.1\15 12 2022 eve verilenler.dll
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\bin\Debug\netcoreapp3.1\15 12 2022 eve verilenler.pdb
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\obj\Debug\netcoreapp3.1\15 12 2022 eve verilenler.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\obj\Debug\netcoreapp3.1\15 12 2022 eve verilenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\obj\Debug\netcoreapp3.1\15 12 2022 eve verilenler.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\obj\Debug\netcoreapp3.1\15 12 2022 eve verilenler.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\obj\Debug\netcoreapp3.1\15 12 2022 eve verilenler.csproj.CoreCompileInputs.cache
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\obj\Debug\netcoreapp3.1\15 12 2022 eve verilenler.dll
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\obj\Debug\netcoreapp3.1\15 12 2022 eve verilenler.pdb
+D:\Visual Studi Code Academy Lessons or\15 12 2022 eve verilenler\obj\Debug\netcoreapp3.1\15 12 2022 eve verilenler.genruntimeconfig.cache
